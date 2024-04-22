@@ -1,4 +1,4 @@
-pipelines {
+pipeline {
     agnet any
     stages {
         stage("build"){
